@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tarta Guinness"
-date:   2016-08-29 08:39:40
+date:   2016-08-28 08:39:40
 preview: /assets/tarta_guinness.jpg
 category: postres
 country: Irlanda

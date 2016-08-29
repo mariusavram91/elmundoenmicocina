@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blancanieves"
-date:   2016-08-29 08:39:40
+date:   2016-08-26 08:39:40
 preview: /assets/blancanieves.jpg
 category: postres
 country: Rumanía
