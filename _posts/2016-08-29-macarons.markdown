@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Macarons"
+date:   2016-08-29 08:39:40
+preview: /assets/macarons.jpg
+---
+
+![Macarons 1](/assets/macarons.jpg)
+
+El macarrón (del francés macaron, pero de origen italiano) es un tipo de galleta tradicional francesa hecho de clara de huevo, almendra molida, azúcar glas y azúcar.
+
+![Macarons 2](/assets/macarons_2.jpg)
+
+![Macarons 3](/assets/macarons_3.jpg)
+
+![Macarons 4](/assets/macarons_4.jpg)
