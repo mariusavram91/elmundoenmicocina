@@ -1,0 +1,13 @@
+# Site settings
+title: El Mundo en mi Cocina
+email: info@elmundoenmicocina.es
+description: > # this means to ignore newlines until "baseurl:"
+  Cocinando recetas de todo el mundo.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://elmundoenmicocina.es" # the base hostname & protocol for your site
+
+instagram_username:  elmundoenmicocina
+
+# Build settings
+markdown: kramdown
+permalink: pretty

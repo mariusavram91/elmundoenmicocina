@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Milhoja"
+date:   2016-08-29 08:39:40
+preview: /assets/milhoja.jpg
+---
+
+![Milhoja 1](/assets/milhoja.jpg)
+
+Receta casera para Milhoja rumana de calabaza, queso y manzana. También llamada Plăcintă.
+
+![Milhoja 2](/assets/milhoja_2.jpg)
+![Milhoja 3](/assets/milhoja_3.jpg)
+
