@@ -3,6 +3,8 @@ layout: post
 title:  "Milhoja"
 date:   2016-08-29 08:39:40
 preview: /assets/milhoja.jpg
+category: postres
+country: Rumanía
 ---
 
 ![Milhoja 1](/assets/milhoja.jpg)
