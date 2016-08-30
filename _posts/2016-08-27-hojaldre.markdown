@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hojaldre relleno"
+date:   2016-08-27 08:39:40
+preview: /assets/hojaldre.jpg
+category: postres
+country: Rumanía
+---
+
+![Hojaldre 1](/assets/hojaldre.jpg)
+
+Receta rumana casera para Hojaldre relleno de calabaza, queso y manzana. También llamada Plăcintă.
+
+![Hojaldre 2](/assets/hojaldre_2.jpg)
+
+![Hojaldre 3](/assets/hojaldre_3.jpg)
+
+![Hojaldre 4](/assets/hojaldre_4.jpg)
