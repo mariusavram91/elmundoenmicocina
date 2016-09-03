@@ -6,6 +6,7 @@
                     <img src="{{ post.preview | prepend: site.baseurl }}">
                 </a>
                 {{ post.title }}
+                <p class="preview-country">{{ post.country }}</p>
            </div>
         </div>
 {% cycle 'end row' : nil, nil, '</div>' %}
